@@ -1,0 +1,17 @@
+C:\Users\acer\OneDrive\Masaüstü\GP_Odev\Gorsel_Programlama_Odev\Gorsel_Programlama_Odev\bin\Debug\net6.0-windows\Gorsel_Programlama_Odev.exe
+C:\Users\acer\OneDrive\Masaüstü\GP_Odev\Gorsel_Programlama_Odev\Gorsel_Programlama_Odev\bin\Debug\net6.0-windows\Gorsel_Programlama_Odev.deps.json
+C:\Users\acer\OneDrive\Masaüstü\GP_Odev\Gorsel_Programlama_Odev\Gorsel_Programlama_Odev\bin\Debug\net6.0-windows\Gorsel_Programlama_Odev.runtimeconfig.json
+C:\Users\acer\OneDrive\Masaüstü\GP_Odev\Gorsel_Programlama_Odev\Gorsel_Programlama_Odev\bin\Debug\net6.0-windows\Gorsel_Programlama_Odev.dll
+C:\Users\acer\OneDrive\Masaüstü\GP_Odev\Gorsel_Programlama_Odev\Gorsel_Programlama_Odev\bin\Debug\net6.0-windows\Gorsel_Programlama_Odev.pdb
+C:\Users\acer\OneDrive\Masaüstü\GP_Odev\Gorsel_Programlama_Odev\Gorsel_Programlama_Odev\obj\Debug\net6.0-windows\Gorsel_Programlama_Odev.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Masaüstü\GP_Odev\Gorsel_Programlama_Odev\Gorsel_Programlama_Odev\obj\Debug\net6.0-windows\Gorsel_Programlama_Odev.Form1.resources
+C:\Users\acer\OneDrive\Masaüstü\GP_Odev\Gorsel_Programlama_Odev\Gorsel_Programlama_Odev\obj\Debug\net6.0-windows\Gorsel_Programlama_Odev.csproj.GenerateResource.cache
+C:\Users\acer\OneDrive\Masaüstü\GP_Odev\Gorsel_Programlama_Odev\Gorsel_Programlama_Odev\obj\Debug\net6.0-windows\Gorsel_Programlama_Odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\OneDrive\Masaüstü\GP_Odev\Gorsel_Programlama_Odev\Gorsel_Programlama_Odev\obj\Debug\net6.0-windows\Gorsel_Programlama_Odev.AssemblyInfoInputs.cache
+C:\Users\acer\OneDrive\Masaüstü\GP_Odev\Gorsel_Programlama_Odev\Gorsel_Programlama_Odev\obj\Debug\net6.0-windows\Gorsel_Programlama_Odev.AssemblyInfo.cs
+C:\Users\acer\OneDrive\Masaüstü\GP_Odev\Gorsel_Programlama_Odev\Gorsel_Programlama_Odev\obj\Debug\net6.0-windows\Gorsel_Programlama_Odev.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Masaüstü\GP_Odev\Gorsel_Programlama_Odev\Gorsel_Programlama_Odev\obj\Debug\net6.0-windows\Gorsel_Programlama_Odev.dll
+C:\Users\acer\OneDrive\Masaüstü\GP_Odev\Gorsel_Programlama_Odev\Gorsel_Programlama_Odev\obj\Debug\net6.0-windows\refint\Gorsel_Programlama_Odev.dll
+C:\Users\acer\OneDrive\Masaüstü\GP_Odev\Gorsel_Programlama_Odev\Gorsel_Programlama_Odev\obj\Debug\net6.0-windows\Gorsel_Programlama_Odev.pdb
+C:\Users\acer\OneDrive\Masaüstü\GP_Odev\Gorsel_Programlama_Odev\Gorsel_Programlama_Odev\obj\Debug\net6.0-windows\Gorsel_Programlama_Odev.genruntimeconfig.cache
+C:\Users\acer\OneDrive\Masaüstü\GP_Odev\Gorsel_Programlama_Odev\Gorsel_Programlama_Odev\obj\Debug\net6.0-windows\ref\Gorsel_Programlama_Odev.dll
